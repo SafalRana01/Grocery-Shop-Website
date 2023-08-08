@@ -649,4 +649,21 @@ section{
     flex-flow: column;
   }
 
+  .header-1 .search-box-container{
+    width:100%;
+    margin-top: 2rem;
+  }
 
+  .logo{
+    font-size: 4rem;
+  }
+
+  .deal .content .count-down .box h3{
+    font-size: 4rem;
+  }
+
+  .deal .content .count-down .box span{
+    font-size: 1.5rem;
+  }
+
+}
